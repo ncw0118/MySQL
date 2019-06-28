@@ -1,0 +1,25 @@
+6,4,2019,Lake Beverage, CHARGE ,# BOTTLES,,,ex),9,28,2018,Lake Beverage,DELIVERY CHARGE
+Budweiser,Loose Beer,b,288,$22.25 ,u,,,,Hoegaarden,Draft,d,2,163
+Budweiser,Loose Light Lime,b,288,$25.55 ,u,,,,Three Heads,The Kind,d,2,139
+Michelob,Ultra,b,288,$23.80 ,u,,,,,,,,
+New Belgium,Fat Tire,b,288,$31.69 ,u,,,,,,,,
+Stella Artois,Draft,d,2, $163.00 ,u,,,"IF THERE ARE MULTIPLE BILLS FOR ONE DISTRIBUTOR IN A SINGLE DAY, COMBINE THE PURCHASES HERE.",,,,,
+Hoegaarden,Draft,d,2, $163.00 ,u,,,,,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,MONTH =,Number,ex)             1,DISTRIBUTOR =,Empire Merchants North,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,DAY =,Number,15,,Lake Beverage,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,YEAR =,Short or Full,19  OR  2019,,Remarkable Liquids,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,,,,,Rhino Beverage,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,BREWER =,CONFIRM NAMES,ex)    Labatt Blue,,Southern Glazer's,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,DRINK =,BEFORE ENTERING,Beer,,T.J. Sheehan,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,COST =,,21.45,,Wright Beverage,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,,,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,DELIVERY CHARGE =,"If the bill includes a delivery charge, please enter it into the box.",,,,# of BOTTLES =
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,"To guarantee uniform distribution of the charge across affected items, be sure to enter unit amounts for liqours.",,,,,Only if delivery charge
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,,,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,TYPE =,D = draft,B = loose bottle/can,W = wine,S = spirit/liqour,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,BARREL/OZ =,"If TYPE = d then enter the barrel fraction. For example enter ""2"" or ""1/2"" for 1/2 barrel.",,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,,For other alcohol (and drafts as well) enter the number of OZ with 1 decimal place.,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,,,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,UPDATE/NEW,,,UPDATE/NEW =,   If item is old: U or UPDATE. If the item is new: N or NEW.,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,U,,,,,,,,
+BREWER,DRINK,TYPE,BARREL/OZ,    COST    ,N,,,SAVE THE SHEET AS 'Bill.csv' IN ORDER TO BE COMPATIBLE WITH THE PARSER BY DEFAULT.,,,,,
